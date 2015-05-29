@@ -1,5 +1,5 @@
 // Insert your Dropbox app key here:
-var DROPBOX_APP_KEY = 'vbf9hscc69knvgw';
+var DROPBOX_APP_KEY = 'API_KEY';
 
 // Exposed for easy access in the browser console.
 var client = new Dropbox.Client({key: DROPBOX_APP_KEY});
